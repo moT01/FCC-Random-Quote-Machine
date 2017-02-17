@@ -1,0 +1,41 @@
+body {
+  padding: 0px;
+  margin: 0px; }
+
+.wrapall{
+  padding: 50px;
+  margin: 50px;
+  max-width: 500px;
+  background-color: #999;
+  border-radius: 10px; }
+
+.quote{
+  color: white;
+  padding: 0px 0px 25px 0px;
+  font-family: fantasy;
+  font-size: 15pt;
+  max-width: 500px; 
+  text-align: center; }
+
+.author{
+  color: white;
+  padding: 0px 0px 50px 0px;
+  font-family: fantasy;
+  text-align: right;
+  max-width: 500px; }
+
+#tweet{
+  margin: 1px 0px 0px 0px;
+  padding: 1px 0px 0px 0px;
+  border-radius: 5px; }
+
+#tweet:hover {
+  cursor: pointer; }
+
+#newquote{
+  padding: 10px;
+  float: right;
+  border-radius: 5px; }
+
+#newquote:hover {
+  cursor: pointer; }
