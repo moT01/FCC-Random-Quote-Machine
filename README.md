@@ -1,6 +1,6 @@
 ## FCC-Random-Quote-Machine
 ##### This is the random quote project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
-##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Random-Quote-Machine/blob/master/index.html)
+##### Check it out [here](https://mot01.github.io/FCC-Random-Quote-Machine/)
 
 <br/>
 <br/>
