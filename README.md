@@ -18,4 +18,4 @@
 - CSS
 - JavaScript
 - jQuery
-- 
+- [QuotesonDesign.com](https://quotesondesign.com/) API
