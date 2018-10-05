@@ -1,6 +1,6 @@
 ## FCC-Random-Quote-Machine
-##### This is the random quote project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
-##### Check it out [here](https://mot01.github.io/FCC-Random-Quote-Machine/)
+##### Random Quote Machine project for [freeCodeCamp](https://www.freecodecamp.org/)
+##### Check it out [here](https://codepen.io/moT01/full/ZpVYLN/)
 
 <br/>
 <br/>
@@ -18,3 +18,4 @@
 - CSS
 - JavaScript
 - jQuery
+- 
